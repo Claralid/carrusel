@@ -1,6 +1,6 @@
 .slick-slide img {
     margin: 0 auto !important;
-    width:250px;
+    width:100px !important;
 }
 a{
     outline: none !important;
