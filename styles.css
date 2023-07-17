@@ -9,7 +9,7 @@ a{
 body div {display:flex !important;}
 
 
-.slick-prev , .slick-next  {background:#44a1ce !important;  border-radius:5 !important; font-size:0px !important; border:none !important;
+.slick-prev , .slick-next  {background:#44a1ce !important;  border-radius:5 !important; font-size:0px !important; border-solid:none !important;
                            height: 30px !important;
     align-self: center !important; font-weight:bold !important;
                            }
