@@ -5,3 +5,10 @@
 a{
     outline: none !important;
 }
+
+.slick-slider {
+    
+    display: flex !important;}
+
+.slick-dots
+{display:none !important;}
