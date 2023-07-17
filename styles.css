@@ -9,13 +9,15 @@ a{
 body div {display:flex !important;}
 
 
-.slick-prev , .slick-next  {background:blue !important; color:#fff !important; border-radius:5 !important; font-size:0px !important;}
+.slick-prev , .slick-next  {background:blue !important;  border-radius:5 !important; font-size:0px !important;}
 
 .slick-prev::before
 {
     content:"<";
+    color:#fff;
+    font-size:16px !important;
 }
-.slick-next::before
+.slick-next::after
 {
     content:">";
     color:#fff;
