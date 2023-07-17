@@ -6,3 +6,4 @@ a{
     outline: none !important;
 }
 
+.slick-slider {display:flex !important;}
