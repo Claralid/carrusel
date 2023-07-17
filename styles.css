@@ -8,4 +8,5 @@ a{
 
 body div {display:flex !important;}
 
-button {background:blue !important;}
+
+.slick-prev , .slick-next  {background:blue !important; color:#fff;}
