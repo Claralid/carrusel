@@ -13,13 +13,13 @@ body div {display:flex !important;}
 
 .slick-prev::before
 {
-    content:"<";
+    content:"\f104";
     color:#fff;
     font-size:16px !important;
 }
 .slick-next::after
 {
-    content:">";
+    content:"\f106";
     color:#fff;
     font-size:16px !important;
 }
